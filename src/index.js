@@ -15,5 +15,5 @@ app.get('/soma/:num1/:num2', async (request, response) => {
 });
 
 app.listen(4000, () => {
-  console.log('Api UP!');
+  console.log('Api UP, Hello World!');
 });
