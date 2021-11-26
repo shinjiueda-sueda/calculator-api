@@ -10,7 +10,7 @@
      Deploy de uma API basica em node.js do ZERO! 
 </h3>
 <p align="center">
-<img src=".github\cover.svg" style="zoom:100%"/> <img src=".github\github.PNG" style="zoom:100%"/>
+<img src=".github\cover.svg" style="zoom:100%"/> <img src=".github\github.svg" style="zoom:100%"/>
 </p>
 
 
@@ -58,7 +58,7 @@ yarn start
 
 
 <footer align="center">
-  <p>copyright holders - DIO/Eduzz - Junho/2021</p>
+  <small>copyright holders - DIO/Eduzz - Junho/2021</small>
 </footer>
 
 
