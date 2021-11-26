@@ -57,8 +57,8 @@ yarn start
 
 
 
-<footer align="center">
+<div align="center">
   <small>copyright holders - DIO/Eduzz - Junho/2021</small>
-</footer>
+</div>
 
 
